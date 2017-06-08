@@ -5,5 +5,5 @@ module.exports = function main(str) {
   {
      s=s+parseInt(str[i]);
   }
-  
+  return s;
 };
